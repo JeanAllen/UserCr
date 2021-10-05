@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+#contain {
+    width: 300px;
+    margin-left: 800px;
+}
+header {
+    border: 1px solid lightblue;
+    background-color: beige;
+    color: rgba(0, 128, 128, 0.507);
+    width: 240px;
+}
+.home-hero #button, label{
+    font-size: 20px;
+    margin-top:2em;
+    display: block;
+    color: black;
+}
+.home-hero {
+    border: 1.5px dashed;
+    background-color: rgba(53, 90, 128, 0.692);
+    width: 240px
+}
+a:hover,
+a:focus {
+    color: red;
+}
